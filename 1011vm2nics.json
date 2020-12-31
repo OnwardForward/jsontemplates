@@ -23,7 +23,7 @@
     },
     "storageAccountType": {
       "type": "string",
-      "defaultValue": "Standard_GRS",
+      "defaultValue": "Standard_LRS",
       "metadata": {
         "description": "Storage Account type for the VM and VM diagnostic storage"
       },
