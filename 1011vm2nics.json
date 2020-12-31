@@ -23,11 +23,7 @@
     },
     "storageAccountType": {
       "type": "string",
- venjal-patch-1
       "defaultValue": "Standard_LRS",
-=======
-      "defaultValue": "Standard_ZRS",
- main
       "metadata": {
         "description": "Storage Account type for the VM and VM diagnostic storage"
       },
