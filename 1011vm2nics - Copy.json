@@ -178,7 +178,7 @@
       "properties": {
         "ipConfigurations": [
           {
-            "name": "ipconfig1",
+            "name": "ipconfig2",
             "properties": {
               "subnet": {
                 "id": "[variables('subnet1Ref')]"
